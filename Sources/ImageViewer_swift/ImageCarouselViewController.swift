@@ -152,7 +152,7 @@ public class ImageCarouselViewController:UIPageViewController, ImageViewerTransi
         super.viewDidLoad()
         
         addBackgroundView()
-        addNavBar()
+//        addNavBar()
         applyOptions()
         
         dataSource = self
